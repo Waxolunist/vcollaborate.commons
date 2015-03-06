@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Copyright (C) 2012-2015 Christian Sterzl <christian.sterzl@gmail.com>
+
+    This file is part of V-Collaborate Commons.
+
+    V-Collaborate Commons is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    V-Collaborate Commons is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with V-Collaborate Commons.  If not, see <http://www.gnu.org/licenses/>.
+
+-->
+<document>
+    <properties>
+        <author>Christian Sterzl</author>
+        <title>V-Collaborate Commons</title>
+    </properties>
+    <meta name="keyword" content="utils, commons"/>
+    <body>
+        <section name="About">
+        	<p>
+        	Java utility library.
+        	</p>
+        </section>
+        <section name="New Hacks">
+        	<p>
+        	If you need more features or see any bugs please report them at the github page 
+        	<a href="https://github.com/Waxolunist/bittwiddling/issues">https://github.com/Waxolunist/bittwiddling/issues</a>.
+        	</p>
+        </section>
+    </body>
+</document>
